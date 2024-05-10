@@ -2,7 +2,7 @@
 bu sayfa ile google da arama yapıp çıkan web siteleri arasında birini seçip içindeki data alınabiliyordu
 donanım haber de bu linkdeki : https://www.donanimhaber.com/en-populer-programlama-dilleri-belli-oldu-zirve-yine-degismedi--159110
 
-içeriği çok demiz alıp export edebiliyordum. Ancak google rechapcha ya takılıyorum 429 hatası veriyor.
+içeriği çok temiz alıp export edebiliyordum. Ancak google rechapcha ya takılıyorum 429 hatası veriyor.
 
 '''
 from bs4 import BeautifulSoup
